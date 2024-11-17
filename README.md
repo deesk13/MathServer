@@ -37,7 +37,7 @@ batcha.html
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface Area of Right Cylinder</title>
-<title>HARIHARAN A(212223110013)</title>
+<title>DEVA DHARSHINI I(212223110013)</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body
@@ -76,7 +76,7 @@ padding-top: 20px;
 <body>
 <div class="edge">
 <div class="box">
- HARIHARAN A (212223110013)
+ DEVA DHARSHINI I (212223110013)
 <h1>Surface Area of Right Cylinder</h1>
 <form method="POST">
 {% csrf_token %}
@@ -136,7 +136,7 @@ urlpatterns = [
 ![Screenshot 2024-11-03 144924](https://github.com/user-attachments/assets/fdb4df9f-a123-4bf0-aa4f-9c7dd982c429)
 
 ## HOMEPAGE:
-![Screenshot 2024-11-03 145001](https://github.com/user-attachments/assets/452d4aaf-b9c4-4ef4-8da2-1d9884dd1352)
+![Screenshot 2024-11-17 101534](https://github.com/user-attachments/assets/3a2347e7-81dc-4195-97a6-2754a1e8b586)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
